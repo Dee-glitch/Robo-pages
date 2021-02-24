@@ -3,9 +3,8 @@ Robo-pages is a React app that lets you search between different API generated r
 It's fully responsive and functional in different screen sizes.
 
 Technologies Used<br>
-* Front-End
-* HTML5
-* CSS3
+* HTML
+* CSS
 * React.js
 
 React Packages<br>
