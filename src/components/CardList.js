@@ -6,7 +6,7 @@ const CardList = ({ robots }) => {
         return <Card key={i} id={robots[i].id} name={robots[i].name} email={robots[i].email}/>
     })
     return (
-        <div>
+        <div className='card-list'>
         {cardArray}
         </div>
     );
